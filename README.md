@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, Yo soy Daniel Hincapie</h1>
+<h1 align="center">Hola 👋, Soy Daniel Hincapie</h1>
 <h3 align="center">un apasionado Desarrollador Full Stack de colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryunosukee&label=Profile%20views&color=0e75b6&style=flat" alt="ryunosukee" /> </p>
