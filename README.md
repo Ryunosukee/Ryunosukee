@@ -1,17 +1,15 @@
 <h1 align="center">Hola 👋, Soy Daniel Hincapie</h1>
-<h3 align="center">un apasionado Desarrollador Full Stack de colombia</h3>
+<h3 align="center">Desarrollador Full Stack de colombia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ryunosukee&label=Profile%20views&color=0e75b6&style=flat" alt="ryunosukee" /> </p>
 
-- 🔭  Actualmente estoy trabajando en **EVPIU**
-
 - 🌱  Actualmente estoy aprendiendo **React Native y Docker**
 
-- 👨‍💻  Todos mis proyectos(públicos) están disponibles en [https://github.com/Ryunosukee?tab=repositories](https://github.com/Ryunosukee?tab=repositories)
+- 👨‍💻  Todos mis proyectos(públicos) están disponibles [aqui](https://github.com/Ryunosukee?tab=repositories)
 
 - 💬  Pregúntame sobre **VueJS, PHP, Laravel, Javascript**
 
-- 📫  Puedes contactarme a través de **strike970124@gmail.com**
+- 📫  Puedes contactarme a través de [MAIL](mailto:strike970124@gmail.com)
 
 <h3 align="left">Connectate conmigo:</h3>
 <p align="left">
