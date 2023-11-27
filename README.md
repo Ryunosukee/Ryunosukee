@@ -4,7 +4,7 @@ I'm always looking to learn new things and stay up to date with the latest trend
 ##
 <div>
   <h3>Experienced in...</h3>
-  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,vue,cs,dotnet,mysql,git" 
+  <img src="https://skillicons.dev/icons?i=php,laravel,javascript,vue,cs,dotnet,mysql,git,tailwind,css,azure,docker,nginx,nodejs&perline=7" 
        title="PHP, Java, JavaScript, vue, C# and SQL."/>
 <br>
 <div>
