@@ -16,7 +16,7 @@ I'm always looking to learn new things and stay up to date with the latest trend
 ##  
 ### Statistics  
     
-<a href="https://github.com/ramonvc">  
+<a href="https://github.com/ryunosukee">  
   <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryunosukee&count_private=true&layout=compact&langs_count=7&count_private=true&theme=transparent"/>  
   <img height="180rem" src="https://streak-stats.demolab.com/?user=ryunosukee&theme=transparent"/>
 </a>  
